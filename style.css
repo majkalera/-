@@ -1,0 +1,39 @@
+.b li{
+    list-style-type: none;
+    display: inline;
+}
+.b a {
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+.b {
+    background-color: orange;
+    padding: 5px;
+}
+.w {
+    text-decoration: none;
+}
+.w:hover {
+    text-decoration: underline;
+}
+.left {
+    float: left;
+    width: 60%;
+}
+.right {
+    float: right;
+    width: 38%;
+}
+.clair-fix {
+    clear: both;
+}
+.c {
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    text-align: center;
+}
+{
+    
+}
